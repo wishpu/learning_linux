@@ -1,6 +1,7 @@
 # learning_linux
 
-学习 Linux 内核的记录与笔记。
+This file will record my learning process of linux and the following items are sorted by glm-5.1.
+I will learn according to the following sequence and update my learning material.
 
 ## Linux 内核模块学习列表
 
